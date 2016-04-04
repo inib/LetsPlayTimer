@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LetsPlayTimer_Single.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_setTime" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:15:01</Value>
+    </Setting>
+    <Setting Name="keyHooked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="key" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">91</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
